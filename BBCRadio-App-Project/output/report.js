@@ -42,11 +42,11 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_go_to(String,String)"
 });
 formatter.result({
-  "duration": 12640039416,
+  "duration": 15019535623,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 25,
+  "line": 26,
   "name": "Opening and closing the drawers",
   "description": "",
   "id": "radio-nav-drawers;opening-and-closing-the-drawers;of-sections;2",
@@ -54,12 +54,12 @@ formatter.scenario({
   "keyword": "Scenario Outline"
 });
 formatter.step({
-  "line": 17,
+  "line": 18,
   "name": "I can see the \"radio nav\"",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 18,
+  "line": 19,
   "name": "I select \"Stations\" in the radio nav",
   "matchedColumns": [
     0
@@ -67,7 +67,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 19,
+  "line": 20,
   "name": "the \"Stations\" drawer is \"open\"",
   "matchedColumns": [
     0
@@ -75,7 +75,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 20,
+  "line": 21,
   "name": "I select \"Stations\" in the radio nav \"again\"",
   "matchedColumns": [
     0
@@ -83,7 +83,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 21,
+  "line": 22,
   "name": "the \"Stations\" drawer is \"closed\"",
   "matchedColumns": [
     0
@@ -100,7 +100,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 367241,
+  "duration": 256043,
   "status": "passed"
 });
 formatter.match({
@@ -113,7 +113,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 768305165,
+  "duration": 1411050417,
   "status": "passed"
 });
 formatter.match({
@@ -130,7 +130,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 406498682,
+  "duration": 421621141,
   "status": "passed"
 });
 formatter.match({
@@ -147,7 +147,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav_again(String,String)"
 });
 formatter.result({
-  "duration": 109644808,
+  "duration": 193380881,
   "status": "passed"
 });
 formatter.match({
@@ -164,11 +164,11 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 437910330,
+  "duration": 196974025,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 26,
+  "line": 27,
   "name": "Opening and closing the drawers",
   "description": "",
   "id": "radio-nav-drawers;opening-and-closing-the-drawers;of-sections;3",
@@ -176,12 +176,12 @@ formatter.scenario({
   "keyword": "Scenario Outline"
 });
 formatter.step({
-  "line": 17,
+  "line": 18,
   "name": "I can see the \"radio nav\"",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 18,
+  "line": 19,
   "name": "I select \"Categories\" in the radio nav",
   "matchedColumns": [
     0
@@ -189,7 +189,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 19,
+  "line": 20,
   "name": "the \"Categories\" drawer is \"open\"",
   "matchedColumns": [
     0
@@ -197,7 +197,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 20,
+  "line": 21,
   "name": "I select \"Categories\" in the radio nav \"again\"",
   "matchedColumns": [
     0
@@ -205,7 +205,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 21,
+  "line": 22,
   "name": "the \"Categories\" drawer is \"closed\"",
   "matchedColumns": [
     0
@@ -222,7 +222,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 221827,
+  "duration": 275431,
   "status": "passed"
 });
 formatter.match({
@@ -235,7 +235,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 759962410,
+  "duration": 380895600,
   "status": "passed"
 });
 formatter.match({
@@ -252,7 +252,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 278853364,
+  "duration": 199226513,
   "status": "passed"
 });
 formatter.match({
@@ -269,7 +269,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav_again(String,String)"
 });
 formatter.result({
-  "duration": 324008036,
+  "duration": 101604854,
   "status": "passed"
 });
 formatter.match({
@@ -286,11 +286,11 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 436099787,
+  "duration": 134857269,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 27,
+  "line": 28,
   "name": "Opening and closing the drawers",
   "description": "",
   "id": "radio-nav-drawers;opening-and-closing-the-drawers;of-sections;4",
@@ -298,12 +298,12 @@ formatter.scenario({
   "keyword": "Scenario Outline"
 });
 formatter.step({
-  "line": 17,
+  "line": 18,
   "name": "I can see the \"radio nav\"",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 18,
+  "line": 19,
   "name": "I select \"Schedules\" in the radio nav",
   "matchedColumns": [
     0
@@ -311,7 +311,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 19,
+  "line": 20,
   "name": "the \"Schedules\" drawer is \"open\"",
   "matchedColumns": [
     0
@@ -319,7 +319,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 20,
+  "line": 21,
   "name": "I select \"Schedules\" in the radio nav \"again\"",
   "matchedColumns": [
     0
@@ -327,7 +327,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 21,
+  "line": 22,
   "name": "the \"Schedules\" drawer is \"closed\"",
   "matchedColumns": [
     0
@@ -344,7 +344,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 226960,
+  "duration": 225249,
   "status": "passed"
 });
 formatter.match({
@@ -357,7 +357,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 870469435,
+  "duration": 347342663,
   "status": "passed"
 });
 formatter.match({
@@ -374,7 +374,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 666553757,
+  "duration": 140534677,
   "status": "passed"
 });
 formatter.match({
@@ -391,7 +391,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav_again(String,String)"
 });
 formatter.result({
-  "duration": 544849873,
+  "duration": 131148364,
   "status": "passed"
 });
 formatter.match({
@@ -408,11 +408,11 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 699321459,
+  "duration": 165521320,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 39,
+  "line": 40,
   "name": "Opening a drawer should close the other drawers",
   "description": "",
   "id": "radio-nav-drawers;opening-a-drawer-should-close-the-other-drawers;of-sections;2",
@@ -420,18 +420,18 @@ formatter.scenario({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 30,
+      "line": 31,
       "name": "@todo"
     }
   ]
 });
 formatter.step({
-  "line": 33,
+  "line": 34,
   "name": "I can see the \"radio nav\"",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 34,
+  "line": 35,
   "name": "I select \"Stations\" in the radio nav",
   "matchedColumns": [
     0
@@ -439,7 +439,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 35,
+  "line": 36,
   "name": "the \"Stations\" drawer is \"open\" and the other drawers are \"closed\"",
   "matchedColumns": [
     0
@@ -456,7 +456,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 271439,
+  "duration": 222968,
   "status": "passed"
 });
 formatter.match({
@@ -469,7 +469,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 870252741,
+  "duration": 94257184,
   "status": "passed"
 });
 formatter.match({
@@ -490,11 +490,11 @@ formatter.match({
   "location": "RadioNavDrawerTest.the_drawer_is_open_and_the_other_drawers_are_closed(String,String,String)"
 });
 formatter.result({
-  "duration": 212704,
+  "duration": 192174,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 40,
+  "line": 41,
   "name": "Opening a drawer should close the other drawers",
   "description": "",
   "id": "radio-nav-drawers;opening-a-drawer-should-close-the-other-drawers;of-sections;3",
@@ -502,18 +502,18 @@ formatter.scenario({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 30,
+      "line": 31,
       "name": "@todo"
     }
   ]
 });
 formatter.step({
-  "line": 33,
+  "line": 34,
   "name": "I can see the \"radio nav\"",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 34,
+  "line": 35,
   "name": "I select \"Categories\" in the radio nav",
   "matchedColumns": [
     0
@@ -521,7 +521,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 35,
+  "line": 36,
   "name": "the \"Categories\" drawer is \"open\" and the other drawers are \"closed\"",
   "matchedColumns": [
     0
@@ -538,7 +538,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 221257,
+  "duration": 207571,
   "status": "passed"
 });
 formatter.match({
@@ -551,7 +551,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 637889003,
+  "duration": 335093695,
   "status": "passed"
 });
 formatter.match({
@@ -572,11 +572,11 @@ formatter.match({
   "location": "RadioNavDrawerTest.the_drawer_is_open_and_the_other_drawers_are_closed(String,String,String)"
 });
 formatter.result({
-  "duration": 155679,
+  "duration": 157389,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 41,
+  "line": 42,
   "name": "Opening a drawer should close the other drawers",
   "description": "",
   "id": "radio-nav-drawers;opening-a-drawer-should-close-the-other-drawers;of-sections;4",
@@ -584,18 +584,18 @@ formatter.scenario({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 30,
+      "line": 31,
       "name": "@todo"
     }
   ]
 });
 formatter.step({
-  "line": 33,
+  "line": 34,
   "name": "I can see the \"radio nav\"",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 34,
+  "line": 35,
   "name": "I select \"Schedules\" in the radio nav",
   "matchedColumns": [
     0
@@ -603,7 +603,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 35,
+  "line": 36,
   "name": "the \"Schedules\" drawer is \"open\" and the other drawers are \"closed\"",
   "matchedColumns": [
     0
@@ -620,7 +620,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 486993,
+  "duration": 745887,
   "status": "passed"
 });
 formatter.match({
@@ -633,7 +633,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 548299885,
+  "duration": 201304504,
   "status": "passed"
 });
 formatter.match({
@@ -654,11 +654,11 @@ formatter.match({
   "location": "RadioNavDrawerTest.the_drawer_is_open_and_the_other_drawers_are_closed(String,String,String)"
 });
 formatter.result({
-  "duration": 280563,
+  "duration": 192175,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 75,
+  "line": 76,
   "name": "Selecting all categories navigates to all categories page",
   "description": "",
   "id": "radio-nav-drawers;selecting-all-categories-navigates-to-all-categories-page;of-sections;2",
@@ -666,18 +666,18 @@ formatter.scenario({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 66,
+      "line": 67,
       "name": "@todo"
     }
   ]
 });
 formatter.step({
-  "line": 68,
+  "line": 69,
   "name": "I can see the \"radio nav\"",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 69,
+  "line": 70,
   "name": "I select \"Categories\" in the radio nav",
   "matchedColumns": [
     0
@@ -685,12 +685,12 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 70,
+  "line": 71,
   "name": "I select the all \"categories\" link",
   "keyword": "And "
 });
 formatter.step({
-  "line": 71,
+  "line": 72,
   "name": "I am on the all \"categories\" page",
   "keyword": "Then "
 });
@@ -704,7 +704,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 254902,
+  "duration": 351844,
   "status": "passed"
 });
 formatter.match({
@@ -717,7 +717,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 223378880,
+  "duration": 476127912,
   "status": "passed"
 });
 formatter.match({
@@ -730,7 +730,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_the_all_categories_link(String)"
 });
 formatter.result({
-  "duration": 188183,
+  "duration": 218406,
   "status": "passed"
 });
 formatter.match({
@@ -743,7 +743,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_am_on_the_all_categories_page(String)"
 });
 formatter.result({
-  "duration": 161381,
+  "duration": 175637,
   "status": "passed"
 });
 });

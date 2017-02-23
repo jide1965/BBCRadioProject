@@ -8,6 +8,8 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 
 
 
@@ -67,7 +69,7 @@ public class WebConnector {
 			chrome=driver;
 		}else if(browserType.equals("Chrome")&& chrome==null){
 			driver=chrome;
-		}/*else if(browserType.equals("Internet Explorer")&& ie==null){
+		}else if(browserType.equals("Internet Explorer")&& ie==null){
 			System.setProperty("webdriver.ie.driver",System.getProperty("user.dir")+"\\IE\\IEDriverServer.exe");
 			driver = new InternetExplorerDriver();
 			ie=driver;
@@ -79,7 +81,7 @@ public class WebConnector {
 			mozilla=driver;
 		}else if(browserType.equals("Mozilla") && mozilla!=null){
 			driver=mozilla;
-		}*/
+		}
 		
 		//max
 		driver.manage().window().maximize();
