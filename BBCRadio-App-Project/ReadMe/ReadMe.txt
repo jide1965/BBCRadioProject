@@ -2,10 +2,10 @@ BBC Test Team Candidate Exercise by Olajide Ogunlesi V1.0
 
 Project Name : BBCRadio-App-Project
 
-My project was written in Data Driven Framework with Cucumber JVM with the pre written scenarios from existing BBC Radio product in which I  designed the framework in such a way that the feature file will control the full application. [Please note that I will rewrite the program in Ruby language once I get use to Ruby syntax I am studying at the moment at Lynda.com. if I am invited for interview I will try to bring it along]
+My project was written in Data Driven Framework with Cucumber JVM with the pre-written scenarios from existing BBC Radio product in which I  designed the framework in such a way that the feature file will control the full application. [Please note that I will rewrite the program in Ruby language once I get use to Ruby syntax I am studying at the moment at Lynda.com. if I am invited for interview I will try to bring it along]
 
 
-***NOTE: Please dowmload the project folder into your local machine driectory and make note of the path to be used in executing the program at command prompt.*****
+***NOTE: Please download the project folder into your local machine directory and make note of the path to be used in executing the program at command prompt.*****
 
 
 1. File list
@@ -48,7 +48,7 @@ A -The first thing I did was to download the Maven Dependencies jar files for Cu
    
   - In src/main/ resources - I created a folder named com.myselenium.app.bbcradionav.drawer and kept my log4j.properties and radionavdrawer.feature 
 
-  - I designed the application to run simultaneously on  3 diffrerent browser type, you only need to include the browser name in radionavdrawer.feature but I only included Chrome now. 
+  - I designed the application to run simultaneously on  3 different browser type, you only need to include the browser name in radionavdrawer.feature but I only included Chrome now. 
 
 3 Architecture of my Application
 --------------------------------
@@ -64,7 +64,7 @@ Corresponding to the feature files the java step file will be called and all the
 
             
 
-- I kept all my browser type exe files in my project.
+- I kept all my browser type .exe files in my project.
 
 
 
@@ -72,7 +72,7 @@ Corresponding to the feature files the java step file will be called and all the
 
 3. Test Report
 
- - if you run it in eclipse IDE, you can pick up test report undr the folder named target created each time you run the program.
+ - if you run it in eclipse IDE, you can pick up test report under the folder named output created each time you run the program.
  - if you run it in command prompt the report will be created in the folder named target in the project directory - cucumber-html-report [always refresh the project each time you run the application for a new report].
  - The log report will be created in C:\testing\Application.log each time you run the program.
 
