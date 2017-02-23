@@ -42,7 +42,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_go_to(String,String)"
 });
 formatter.result({
-  "duration": 15019535623,
+  "duration": 46634936249,
   "status": "passed"
 });
 formatter.scenario({
@@ -100,7 +100,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 256043,
+  "duration": 541167,
   "status": "passed"
 });
 formatter.match({
@@ -113,7 +113,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 1411050417,
+  "duration": 980352038,
   "status": "passed"
 });
 formatter.match({
@@ -130,7 +130,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 421621141,
+  "duration": 1032007559,
   "status": "passed"
 });
 formatter.match({
@@ -147,7 +147,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav_again(String,String)"
 });
 formatter.result({
-  "duration": 193380881,
+  "duration": 358757927,
   "status": "passed"
 });
 formatter.match({
@@ -164,7 +164,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 196974025,
+  "duration": 298701484,
   "status": "passed"
 });
 formatter.scenario({
@@ -222,7 +222,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 275431,
+  "duration": 578234,
   "status": "passed"
 });
 formatter.match({
@@ -235,7 +235,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 380895600,
+  "duration": 765189320,
   "status": "passed"
 });
 formatter.match({
@@ -252,7 +252,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 199226513,
+  "duration": 237240515,
   "status": "passed"
 });
 formatter.match({
@@ -269,7 +269,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav_again(String,String)"
 });
 formatter.result({
-  "duration": 101604854,
+  "duration": 364252286,
   "status": "passed"
 });
 formatter.match({
@@ -286,7 +286,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 134857269,
+  "duration": 252236948,
   "status": "passed"
 });
 formatter.scenario({
@@ -344,7 +344,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 225249,
+  "duration": 1224327,
   "status": "passed"
 });
 formatter.match({
@@ -357,7 +357,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 347342663,
+  "duration": 721323984,
   "status": "passed"
 });
 formatter.match({
@@ -374,7 +374,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 140534677,
+  "duration": 366495079,
   "status": "passed"
 });
 formatter.match({
@@ -391,7 +391,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav_again(String,String)"
 });
 formatter.result({
-  "duration": 131148364,
+  "duration": 293378201,
   "status": "passed"
 });
 formatter.match({
@@ -408,7 +408,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.Then_the_drawer(String,String)"
 });
 formatter.result({
-  "duration": 165521320,
+  "duration": 354787847,
   "status": "passed"
 });
 formatter.scenario({
@@ -456,7 +456,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 222968,
+  "duration": 443654,
   "status": "passed"
 });
 formatter.match({
@@ -469,7 +469,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 94257184,
+  "duration": 557323521,
   "status": "passed"
 });
 formatter.match({
@@ -490,7 +490,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.the_drawer_is_open_and_the_other_drawers_are_closed(String,String,String)"
 });
 formatter.result({
-  "duration": 192174,
+  "duration": 764706,
   "status": "passed"
 });
 formatter.scenario({
@@ -538,7 +538,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 207571,
+  "duration": 400886,
   "status": "passed"
 });
 formatter.match({
@@ -551,7 +551,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 335093695,
+  "duration": 306060559,
   "status": "passed"
 });
 formatter.match({
@@ -572,7 +572,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.the_drawer_is_open_and_the_other_drawers_are_closed(String,String,String)"
 });
 formatter.result({
-  "duration": 157389,
+  "duration": 521208,
   "status": "passed"
 });
 formatter.scenario({
@@ -620,7 +620,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 745887,
+  "duration": 457340,
   "status": "passed"
 });
 formatter.match({
@@ -633,7 +633,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 201304504,
+  "duration": 847665710,
   "status": "passed"
 });
 formatter.match({
@@ -654,7 +654,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.the_drawer_is_open_and_the_other_drawers_are_closed(String,String,String)"
 });
 formatter.result({
-  "duration": 192175,
+  "duration": 508663,
   "status": "passed"
 });
 formatter.scenario({
@@ -704,7 +704,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_can_see_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 351844,
+  "duration": 796069,
   "status": "passed"
 });
 formatter.match({
@@ -717,7 +717,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_section_in_the_radio_nav(String)"
 });
 formatter.result({
-  "duration": 476127912,
+  "duration": 385921213,
   "status": "passed"
 });
 formatter.match({
@@ -730,7 +730,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_select_the_all_categories_link(String)"
 });
 formatter.result({
-  "duration": 218406,
+  "duration": 545159,
   "status": "passed"
 });
 formatter.match({
@@ -743,7 +743,7 @@ formatter.match({
   "location": "RadioNavDrawerTest.I_am_on_the_all_categories_page(String)"
 });
 formatter.result({
-  "duration": 175637,
+  "duration": 369522,
   "status": "passed"
 });
 });
